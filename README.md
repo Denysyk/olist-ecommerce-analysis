@@ -20,11 +20,11 @@ SQL analysis of a Brazilian e-commerce dataset covering 100k+ orders across 2016
 
 ## SQL Files
 
-- `01_eda.sql` — dataset overview, order status distribution, volume metrics
-- `02_sales_analysis.sql` — monthly revenue trends, top categories by revenue and review score, payment method breakdown (JOIN, window functions)
-- `03_customer_analysis.sql` — top cities and states by orders, new vs returning customers, average delivery time by state (CTE, UNION)
-- `04_seller_analysis.sql` — top sellers by revenue with market share, geographic distribution (JOIN, GROUP BY, RANK)
-- `05_advanced.sql` — review score vs delivery performance, category-level review rankings, combined revenue and delivery metrics (CTE, window functions, UNION ALL)
+- `olist_eda.sql` — dataset overview, order status distribution, volume metrics
+- `olist_sales_analysis.sql` — monthly revenue trends, top categories by revenue and review score, payment method breakdown (JOIN, window functions)
+- `olist_customer_analysis.sql` — top cities and states by orders, new vs returning customers, average delivery time by state (CTE, UNION ALL)
+- `olist_seller_analysis.sql` — top sellers by revenue with market share, geographic distribution (JOIN, GROUP BY, RANK)
+- `olist_advanced.sql` — review score vs delivery performance, category-level review rankings, combined revenue and delivery metrics (CTE, window functions, UNION ALL)
 
 ## Key Findings
 
