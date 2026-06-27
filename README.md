@@ -15,8 +15,8 @@ SQL analysis of a Brazilian e-commerce dataset covering 100k+ orders across 2016
 - 99,441 orders
 - 3,095 unique sellers
 - 32,951 unique products
-- 27 product categories (translated to English)
-- Coverage: September 2016 — August 2018
+- 71 product categories (translated to English)
+- Coverage: September 2016 — October 2018
 
 ## SQL Files
 
